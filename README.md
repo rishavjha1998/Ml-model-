@@ -1,1 +1,1 @@
-Ml model to predict scores by no.of hours studying
+Machine leaning model to predict "no. of scores" by predictor variable as "No.of hrs"
